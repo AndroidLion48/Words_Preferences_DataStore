@@ -2,6 +2,8 @@
 
 This codelab introduces Jetpack DataStore. Built on Kotlin coroutines and Flow, DataStore provides two different implementations: Proto DataStore, which stores typed objects, and Preferences DataStore, which stores key-value pairs.
 
+![Screenshot 2023-02-28 201101](https://user-images.githubusercontent.com/92341925/222043374-2b019998-3a91-4ee3-bbb4-e2f91d7f8de5.png)
+![Screenshot 2023-02-28 201132](https://user-images.githubusercontent.com/92341925/222043386-a993aca2-4be0-4ec3-931b-4c31ec825672.png)
 
 
 ## Introduction
